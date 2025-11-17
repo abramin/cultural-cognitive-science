@@ -1,6 +1,6 @@
 # Cultural Cognitive Science - A project in AI-Mediated Learning
 
-
+* [Pilot](./pilot/pilot.md) 
 
 
 
