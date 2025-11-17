@@ -1844,10 +1844,6 @@ Routledge
 
 ### What I Wish I Had Access To:
 
-### Helped:
-
-### Hindered:
-
 ### Confidence Level in Today's Learning (1-10):
 
 ### Additional Notes:
