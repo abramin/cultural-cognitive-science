@@ -22,7 +22,7 @@ A strange question, like asking how confident am I that evolution is the best th
     
 * What are some good arguments for the origin of consciousness, and or solutions to the mind-body problem.
 
-###About learning methods (autodidactic vs. AI-mediated)
+### About learning methods (autodidactic vs. AI-mediated)
 
 * Will adopting an AI free learning method make me a better thinker or will using AI enhance my thinking? (instead of making me a lazier thinker).
 * Will AI prove a sufficient surrogate for a human teacher?
