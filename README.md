@@ -1,7 +1,7 @@
 # Cultural Cognitive Science - A project in AI-Mediated Learning
 
 * [Pilot](./pilot/pilot.md) 
-
+    * [Pre-pilot Self-Assessment](./pilot/pre-pilot-self-assessment.md)
 
 
 
