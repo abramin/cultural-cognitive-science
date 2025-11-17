@@ -6,7 +6,7 @@
 
 ---
 
-**Document Version:** 1.0  
+**Document Version:** 1.1 (Corrected)  
 **Created:** November 2025  
 **Purpose:** Complete working curriculum for experimental pilot phase
 
@@ -136,7 +136,12 @@ You need to obtain these texts before starting. Allow 2-3 days for library acces
    - **Note:** This is challenging—don't try to read the whole book
 
 3. **Churchland, P.S.** (1986). *Neurophilosophy: Toward a Unified Science of the Mind-Brain*. MIT Press.
-   - **You need:** Chapter 1 (Introduction: A New Science of the Mind), approximately 30 pages
+   - **You need:** Part II: "Recent Developments in the Philosophy of Science" (approximately 100-150 pages)
+   - **Note on structure:** The book has three parts:
+     - Part I: "Some Elementary Neuroscience" (skip unless you need neuroscience context)
+     - Part II: "Recent Developments in the Philosophy of Science" (READ THIS—contains her philosophical arguments)
+     - Part III: "A Neurophilosophical Perspective" (dated 1980s computational models—skip)
+   - **Where to find:** Through Open University library (check JSTOR, ProQuest, or direct MIT Press institutional access at https://direct.mit.edu/books/monograph/4792). ISBN: 9780262530859 (paperback) or 0262031167 (hardcover)
 
 4. **Ingold, T.** (2000). *The Perception of the Environment: Essays on Livelihood, Dwelling and Skill*. Routledge.
    - **You need:** 
@@ -944,8 +949,10 @@ Before I begin:
 
 **Reading Assignment:**
 1. Mumford, "Authoritarian and Democratic Technics" (~15 pages)
-2. Churchland, *Neurophilosophy* Chapter 1 (~30 pages)
-3. Ingold, *The Perception of the Environment* - Selections (~25 pages)
+2. Churchland, *Neurophilosophy* Part II: "Recent Developments in the Philosophy of Science" (~100-150 pages)
+3. Ingold, *The Perception of the Environment* - Selections (~20 pages)
+
+**Note on Week 5 workload:** This is the most reading-intensive week of Pilot B due to Churchland's philosophical density. Plan accordingly—you may need 3-3.5 hours on Days 2-4.
 
 #### Day 1: Monday (2 hours)
 
@@ -960,7 +967,7 @@ Before I begin:
 - Focus on: What makes knowledge systems "authoritarian"?
 
 **After Reading:**
-- **Ask Claude:** "Tomorrow I read Churchland's neurophilosophy, which argues for reductive explanation. Help me think: Does Churchland's approach represent 'authoritarian' expertise—claiming to understand consciousness better than conscious subjects—or is it legitimate science?"
+- **Ask Claude:** "This week I read Churchland's neurophilosophy, which argues for reductive explanation. Help me think: Does Churchland's approach represent 'authoritarian' expertise—claiming to understand consciousness better than conscious subjects—or is it legitimate science? How should I think about this as I read her?"
 
 **Documentation:**
 - `/ai_interactions/week5_day1.md`
@@ -968,38 +975,44 @@ Before I begin:
 
 ---
 
-#### Day 2: Tuesday (2.5 hours)
+#### Day 2: Tuesday (3-3.5 hours)
 
 **Reading:**
-- Churchland, Chapter 1, pages 1-15
+- Churchland, Part II: "Recent Developments in the Philosophy of Science" - First third (approximately pages 1-50 of Part II)
+
+**Before Reading:**
+- **Ask Claude:** "I'm beginning Churchland's Part II on philosophy of science and intertheoretic reduction. This is dense material. What's the overall structure of her argument? What should I prioritize? What will be most difficult?"
 
 **Tasks:**
-- Read carefully
-- Focus on: What is Churchland's reductive strategy?
-- **Ask questions:**
-  - Example: "Churchland argues for 'co-evolution' of neuroscience and psychology. What does she mean?"
+- Read carefully—this is dense philosophy of science
+- Take detailed notes
+- Focus on: What is her alternative to logical empiricist reduction?
+- **Ask questions as needed:**
+  - Example: "Churchland discusses 'intertheoretic reduction.' How does her account differ from Nagel-Schaffner reduction? Why does she need a post-empiricist theory?"
 
 **Evening Check-in:**
-- **Ask Claude:** "Churchland's approach seems very different from Merleau-Ponty. How do they relate? Are they talking past each other?"
+- **Ask Claude:** "Here's what I understood from the first third of Part II [summary]. Is this accurate? What connections or distinctions am I missing? What should I watch for as I continue?"
 
 **Documentation:**
 - `/ai_interactions/week5_day2.md`
-- Daily log
+- Daily log: Note difficulty level and time spent
 
 ---
 
-#### Day 3: Wednesday (2.5 hours)
+#### Day 3: Wednesday (3-3.5 hours)
 
 **Reading:**
-- Churchland, Chapter 1, pages 16-30
+- Churchland, Part II - Second third (approximately pages 51-100)
 
 **Tasks:**
-- Complete Churchland
-- **Ask Claude:** "Churchland argues for reductive explanation. How does this differ from eliminative materialism? I'm confused about her position."
-- Clarify through dialogue
+- Continue through middle section of Part II
+- Focus on: Her responses to dualist arguments and the multiple realizability objection
+- **Ask Claude questions:**
+  - Example: "Churchland responds to property dualism and qualia arguments. What's her strategy? How does this connect to her reduction account?"
+  - Example: "She discusses the 'co-evolution' of neuroscience and psychology. What exactly does this methodology entail? How is it different from simply reducing psychology to neuroscience?"
 
 **Evening Check-in:**
-- **Ask Claude:** "Now that I've read both Merleau-Ponty and Churchland, where exactly do they disagree? Is Churchland rejecting phenomenology entirely? What would Merleau-Ponty say about Churchland's project?"
+- **Ask Claude:** "I'm partway through Churchland's philosophical arguments. How do her responses to dualism and anti-reductionism set up her broader neurophilosophical project? What's the relationship between her theory of reduction and her eliminativist tendencies?"
 
 **Documentation:**
 - `/ai_interactions/week5_day3.md`
@@ -1007,23 +1020,27 @@ Before I begin:
 
 ---
 
-#### Day 4: Thursday (2.5 hours)
+#### Day 4: Thursday (3-3.5 hours)
 
 **Reading:**
-- Ingold, Chapter 1: The Organism and its Environment (pp. 13-25)
-
-**Before Reading:**
-- **Ask Claude:** "I'm about to read Ingold's ecological anthropology. How does his approach relate to philosophical debates? What should I look for?"
+- Churchland, Part II - Final third (approximately pages 101-150)
+- Begin Ingold, Chapter 1: The Organism and its Environment (pp. 13-25)
 
 **Tasks:**
-- Read with framing
-- Notes on: What is "dwelling"? "Enskillment"?
-- **Engage Claude:**
-  - "Ingold talks about skilled practice and embodied knowledge. How do these challenge both Churchland's reductionism and Cartesian dualism?"
+- Complete Churchland Part II
+- **Extended dialogue with Claude:**
+  - "I've finished Churchland's Part II. Help me synthesize: What is the core of her reductive neurophilosophy? How does the 'co-evolution' methodology work? What does she think happens to folk psychology—revision or elimination? How does her position differ from eliminative materialism?"
+  - Clarify and consolidate understanding before moving to Ingold
+
+- Begin Ingold Chapter 1
+- **Ask Claude:** "I'm moving from Churchland to Ingold. How does Ingold's ecological anthropology relate to philosophical debates about mind? What should I look for?"
+
+**Evening Check-in:**
+- **Ask Claude:** "Now that I've completed Churchland's philosophical framework and started Ingold's ecological anthropology, help me see: How do their approaches to mind/consciousness differ fundamentally? Both claim to be materialist and anti-Cartesian, but they seem to point in different directions. What would Ingold say about Churchland's reductionism?"
 
 **Documentation:**
 - `/ai_interactions/week5_day4.md`
-- Daily log
+- Daily log: Reflect on Churchland's difficulty and comprehension
 
 ---
 
@@ -1033,12 +1050,14 @@ Before I begin:
 - Ingold, Chapter 16: On Weaving a Basket (pp. 339-348)
 
 **Tasks:**
-- Complete Ingold
+- Complete Ingold readings
+- Focus on: skilled practice, embodied knowledge, "enskillment"
 - **Extended dialogue:**
   - "Let's discuss the relationship between Ingold and Churchland. Both claim to be materialist and anti-Cartesian, but approach consciousness differently. Help me think through:
-    1. How would Ingold critique Churchland?
-    2. How would Churchland respond to Ingold's skilled practice?
-    3. Are they addressing the same phenomenon?"
+    1. How would Ingold critique Churchland's reductionism?
+    2. How would Churchland respond to Ingold's skilled practice and 'dwelling'?
+    3. Are they addressing the same phenomenon or different aspects?
+    4. Does Ingold's 'enskillment' escape reduction, or is it just complex neural processes Churchland would explain differently?"
 
 **Documentation:**
 - `/ai_interactions/week5_day5.md`
@@ -1054,13 +1073,14 @@ Before I begin:
 **"Is Consciousness Reducible to Brain Processes? Evaluate with reference to Churchland and at least one critic."**
 
 **Task:**
-- **Ask Claude:** "I need to write this essay. Given my readings—Bermúdez, Merleau-Ponty, Churchland, Ingold, Mumford—help me think through:
-  1. What should my thesis address? Key dimensions of reduction question?
-  2. How should I structure it?
-  3. Which thinkers to focus on?
-  4. What connections or tensions to highlight?"
+- **Ask Claude:** "I need to write this essay. Given my readings—Bermúdez, Merleau-Ponty, Churchland's Part II, Ingold, Mumford—help me think through:
+  1. What should my thesis address? What are the key dimensions of the reduction question?
+  2. How should I structure the essay?
+  3. Which thinkers should I focus on? I could use Merleau-Ponty or Ingold as primary critic of Churchland—which offers stronger critical purchase?
+  4. What connections or tensions should I highlight?
+  5. How do I avoid simply summarizing positions—what level of critical analysis is needed?"
 
-**Important:** Don't have Claude write outline—develop it yourself with guidance
+**Important:** Don't have Claude write outline—develop it yourself with guidance. Claude should help you think through structure, not provide the structure.
 
 **Documentation:**
 - Save your outline (your work, not Claude's)
@@ -1079,23 +1099,29 @@ Before I begin:
 1. **How has my AI use evolved from Week 4?**
    - Better questions?
    - More strategic?
+   - Different kinds of questions?
 
 2. **Have I become dependent or more autonomous?**
-   - Evidence
+   - Evidence from this week
+   - Did Churchland's difficulty make me more or less reliant on AI?
 
 3. **Where did AI challenge vs. confirm my thinking?**
-   - Examples
+   - Specific examples
+   - Did AI reveal blind spots or just validate existing understanding?
 
 4. **What questions did AI answer well vs. poorly?**
-   - Pattern recognition
+   - Pattern recognition: What kinds of questions work best?
+   - Where were responses inadequate or confusing?
 
 5. **How does AI interlocutor compare to no interlocutor?**
    - Better? Worse? Different?
+   - What would human interlocutor provide that AI doesn't?
 
 6. **The Mumford question:**
-   - Does AI feel like "authoritarian technics" (dependency)?
+   - Does AI feel like "authoritarian technics" (creating dependency)?
    - Or "democratic technics" (enhancing autonomy)?
-   - Evidence
+   - Evidence from three weeks of interactions
+   - Has the relationship changed?
 
 ---
 
@@ -1108,20 +1134,22 @@ Before I begin:
 #### Day 1: Monday (3 hours)
 
 **Writing:**
-- Begin drafting
+- Begin drafting independently
 - Target: Introduction + first section
 - Aim for ~600 words
 
 **Essay Structure (1,500 words):**
 
 **I. Introduction (200 words)**
-- Frame the question
+- Frame the question: What's at stake in reducibility debate?
 - Preview positions
 - Your thesis
 
 **II. Churchland's Reductive Neurophilosophy (400 words)**
-- Her argument
-- What would reduction look like?
+- Her argument from Part II
+- What would successful reduction look like?
+- Her response to anti-reductionist arguments
+- The "co-evolution" methodology
 - Evidence/reasoning
 - Strengths
 
@@ -1129,25 +1157,27 @@ Before I begin:
 - Choose Merleau-Ponty OR Ingold as primary critic
 - Their challenge to reductionism
 - Why reduction fails or is inappropriate
+- What does their approach capture that reduction loses?
 - Strengths
 
 **IV. Evaluation (400 words)**
-- Your assessment
-- Who has stronger argument?
-- What assumptions underlie disagreement?
-- Same phenomenon or different aspects?
+- Your assessment: Who has stronger argument?
+- What philosophical assumptions underlie disagreement?
+- Are they addressing same phenomenon or different aspects?
+- What does "reduction" mean in each framework?
+- Is the debate resolvable or do they talk past each other?
 
 **V. Conclusion (100 words)**
-- Summarize
-- Implications
+- Summarize your position
+- Implications for understanding consciousness
 
 **Tasks:**
-- Draft independently first
+- Draft independently first—write your own ideas before consulting AI
 - Record time: writing vs. consulting
 
 **Documentation:**
-- Daily log
-- Don't submit to Claude yet
+- Daily log: How much did you draft? How confident do you feel?
+- Don't submit to Claude yet—wait until Day 2
 
 ---
 
@@ -1156,20 +1186,21 @@ Before I begin:
 **Writing:**
 - Continue independently
 - Complete through Section III
-- Aim for ~1,000 words
+- Aim for ~1,000 words total
 
 **Mid-Draft Check-in:**
-- **Submit to Claude:** "I've drafted Introduction and sections on Churchland and [critic] [paste]. Before continuing, feedback:
-  1. Is my argument clear?
-  2. Am I representing thinkers accurately?
-  3. What needs clarification?"
+- **Submit to Claude:** "I've drafted Introduction and sections on Churchland and [Merleau-Ponty/Ingold] [paste]. Before continuing, I need feedback:
+  1. Is my argument clear? Can you follow my reasoning?
+  2. Am I representing thinkers accurately? Any misunderstandings?
+  3. What needs clarification or strengthening?
+  4. What am I missing or overlooking?"
 
 - Receive feedback
-- **Revise Sections I-III**
+- **Revise Sections I-III based on feedback**
 
 **Documentation:**
 - `/ai_interactions/week6_day2.md`
-- Daily log: How did feedback change draft?
+- Daily log: How did feedback change draft? Was it helpful? Did you agree with it?
 
 ---
 
@@ -1180,26 +1211,27 @@ Before I begin:
 - Full first draft (~1,500 words)
 
 **Self-Check before submitting:**
-- Answered question?
-- Argument clear?
-- Fairly represented all positions?
-- Evaluation substantive?
+- Have I answered the essay question?
+- Is my argument clear?
+- Have I fairly represented all positions?
+- Is my evaluation substantive (not just "both have good points")?
 
 **Full Draft Feedback:**
-- **Submit to Claude:** "Complete first draft [paste]. Evaluate using five-dimension rubric:
+- **Submit to Claude:** "Here's my complete first draft [paste]. Please evaluate using the five-dimension rubric:
   1. Argument & Structure
   2. Knowledge & Understanding
   3. Integration of Perspectives
   4. Critical Engagement
   5. Style, Evidence & Presentation
 
-For each: What's working? What needs improvement? What specific changes would strengthen it?"
+For each dimension: What's working well? What needs improvement? What specific changes would strengthen the essay? Where am I weakest?"
 
 - Receive detailed feedback
+- Read carefully and consider
 
 **Documentation:**
 - `/ai_interactions/week6_day3.md`
-- Daily log: How useful is feedback? Does it reveal blind spots?
+- Daily log: How useful is feedback? Does it reveal blind spots? Do you agree with assessment?
 
 ---
 
@@ -1207,35 +1239,39 @@ For each: What's working? What needs improvement? What specific changes would st
 
 **Revision:**
 - Revise substantially based on feedback
-- Focus on weakest dimensions
+- Focus on weakest dimensions identified by Claude
+- This should be real revision, not just surface edits
 
 **Targeted Help:**
-- **If struggling:**
-  - "I'm working on critical evaluation [paste section]. You said it needs clearer connection to reduction question. Help me see what's missing?"
+- **If struggling with specific sections:**
+  - "I'm working on critical evaluation [paste section]. You said it needs clearer connection to reduction question and deeper analysis of assumptions. Help me see what's missing—what should I be asking here?"
 
 **Tasks:**
-- Substantial revision, not just surface edits
-- Improve argument, evidence, analysis
+- Substantial revision: improve argument, evidence, analysis
+- Deepen critical engagement
+- Strengthen integration of perspectives
 
 **Documentation:**
 - `/ai_interactions/week6_day4.md`
-- Daily log: Track improvements
+- Daily log: Track specific improvements made
 
 ---
 
 #### Day 5: Friday (2.5 hours)
 
 **Final Revision:**
-- Final improvements
+- Final improvements to argument and prose
 - Proofread carefully
+- Ensure citations are correct and complete
 
 **Final Feedback:**
-- **Submit to Claude:** "Revised essay [paste]. Compared to first draft:
-  1. How much improved?
-  2. Remaining weaknesses?
-  3. What would move it higher?"
+- **Submit to Claude:** "Here's my revised essay [paste]. Compared to first draft:
+  1. How much has it improved?
+  2. What remaining weaknesses do you see?
+  3. What would move it to a higher grade band?
+  4. Is it ready or does it need further work?"
 
-- Final adjustments
+- Final adjustments based on response
 
 **Finalize essay**
 
@@ -1249,7 +1285,7 @@ For each: What's working? What needs improvement? What specific changes would st
 
 **AI ASSESSMENT REQUEST**
 
-**Ask Claude:** "Please provide complete assessment:
+**Ask Claude:** "Please provide complete assessment of my final essay:
 
 1. Evaluate using five-dimension rubric:
    - Argument & Structure
@@ -1258,35 +1294,39 @@ For each: What's working? What needs improvement? What specific changes would st
    - Critical Engagement
    - Style, Evidence & Presentation
 
-2. For each: Specific grade (First/2:1/2:2/Third/Fail) with detailed justification
+2. For each: Specific grade (First/2:1/2:2/Third/Fail) with detailed justification and evidence from essay
 
 3. Overall indicative grade band with specific mark (e.g., 'Upper Second, 67')
 
-4. Overall justification
+4. Overall justification: Why this grade? What are the essay's main strengths and weaknesses?
 
-5. What would move it to higher band?"
+5. What would move it to a higher band? Be specific."
 
-**Receive AI's assessment**
+**Receive and save AI's assessment**
+
+---
 
 **YOUR SELF-ASSESSMENT (800 words)**
 
-Now assess independently:
+Now assess independently, before comparing with AI:
 
 **For each dimension:**
-- What grade?
-- Why? (Strengths/weaknesses)
-- Evidence from essay
+- What grade do you give?
+- Why? (Strengths and weaknesses with specific evidence)
+- How confident are you in this assessment?
 
 **Overall grade:**
 - First (70+), 2:1 (60-69), 2:2 (50-59), Third (40-49), Fail (<40)
-- Justification
+- Specific mark if possible
+- Overall justification
 
 **Comparison with AI:**
 - Where do assessments converge?
-- Where diverge?
+- Where do they diverge?
 - If different, why? Who's right?
-- How do you feel about AI assessment?
-- Is AI accurate and fair?
+- How do you feel about AI's assessment—fair? Too harsh? Too generous?
+- Is AI a reliable assessor? What are its limits?
+- Would you trust AI assessment over your own? Why or why not?
 
 **Documentation:**
 - Save with essay
@@ -1304,46 +1344,52 @@ Now assess independently:
 
 1. **How did AI shape learning over three weeks?**
    - Overall pattern
+   - Evolution from Week 4 through Week 6
 
 2. **What could I learn with AI that I couldn't alone?**
-   - Specific capabilities
-   - Evidence
+   - Specific capabilities AI enabled
+   - Concrete evidence
 
 3. **What did AI prevent or obscure?**
    - Where did it limit independent thinking?
-   - Where create dependency?
+   - Where did it create dependency?
+   - What did I *not* develop because AI was available?
 
 4. **How did relationship evolve?**
    - Week 4 vs. 5 vs. 6
-   - More or less dependent?
+   - More or less dependent over time?
    - More effective use?
+   - Better questions?
 
 5. **Essay feedback and assessment:**
-   - Did it reveal blind spots?
-   - Or confirm what I knew?
-   - Was assessment accurate?
-   - How does AI compare to self-assessment?
-   - Good enough to replace human expertise?
+   - Did AI feedback reveal genuine blind spots?
+   - Or just confirm what I already knew?
+   - Was AI's assessment accurate?
+   - How does AI assessment compare to self-assessment?
+   - Is AI good enough to replace human expertise in assessment?
+   - What can't it evaluate?
 
 6. **Where were AI's limits most apparent?**
    - What questions couldn't it answer well?
-   - What feedback felt inadequate?
-   - Where did I miss human interlocution?
+   - What feedback felt inadequate or generic?
+   - Where did I most miss human interlocution?
+   - What does human expertise provide that AI doesn't?
 
 7. **Would I continue learning this way?**
-   - Honest assessment
+   - Honest assessment—not what you "should" say
    - What would need to change?
+   - What worked? What didn't?
 
 ---
 
 **END OF PILOT B**
 
 **Materials to Save:**
-- Essay (final)
-- AI assessment
+- Essay (final version)
+- AI assessment (from Day 6)
 - Self-assessment (800 words)
-- All AI interactions (18 days)
-- Three ethnographic reflections
+- All AI interactions (18 days worth)
+- Three ethnographic reflections (Weeks 4, 5, 6)
 
 **Wait for Week 7 before comparing with Pilot A**
 
@@ -1416,11 +1462,11 @@ Reread Week 0 Pre-Pilot Self-Assessment.
 
 **Write (500 words): "What I Now Understand That I Didn't Before"**
 
-- How has understanding changed?
+- How has understanding changed from baseline?
 - Can you explain positions clearly now?
-- What was your position in Week 0? Now?
+- What was your position in Week 0? What is it now?
 - Substantial or marginal change?
-- Which pilot contributed more?
+- Which pilot contributed more to change?
 
 ---
 
@@ -1437,7 +1483,7 @@ Reread Week 0 Pre-Pilot Self-Assessment.
 1. **Which condition produced deeper understanding?**
    - Evidence: Compare essays
    - Compare confidence ratings
-   - Compare accuracy
+   - Compare accuracy of representation
 
 2. **Which allowed clearer connections?**
    - Between thinkers
@@ -1451,16 +1497,17 @@ Reread Week 0 Pre-Pilot Self-Assessment.
 4. **Can you explain positions clearly now?**
    - Nagel, Dennett, Churchland, Merleau-Ponty, Ingold
    - Could you defend essays to an expert?
+   - Which thinkers do you understand best? Worst?
 
 5. **Which essay is better? Why?**
    - Quality of argument
    - Accuracy of representation
    - Depth of analysis
-   - Honest assessment
+   - Be honest—not diplomatic
 
 **Required:**
 - Specific examples from essays
-- Quotes from logs/reflections
+- Quotes from logs/reflections showing understanding at different points
 - Honest assessment—don't claim equality if false
 
 ---
@@ -1472,34 +1519,38 @@ Reread Week 0 Pre-Pilot Self-Assessment.
 1. **Which was more time-efficient?**
    - Hours spent
    - Productivity per hour
+   - Time wasted vs. productive
 
 2. **Where did you get stuck?**
-   - Causes of confusion
+   - Causes of confusion in each condition
    - How resolved (or not)?
-   - Compare strategies
+   - Compare strategies and effectiveness
 
 3. **Which felt more intellectually satisfying?**
    - Where did genuine insight occur?
-   - "Aha" moments?
+   - "Aha" moments in each condition
 
 4. **Which was more frustrating? Why?**
+   - Different kinds of frustration?
 
 5. **How did reading differ?**
    - Pace, comprehension, engagement
-   - With vs. without AI
+   - With vs. without AI framing
+   - Did AI help or interfere with direct engagement?
 
 6. **How did writing differ?**
    - Planning, drafting, revising
    - With vs. without feedback
+   - Did AI improve essay or just confirm your work?
 
 7. **Which developed independent thinking?**
-   - Which taught you to think yourself?
-   - Which risked dependency?
+   - Which taught you to think for yourself?
+   - Which risked dependency or intellectual passivity?
 
 **Required:**
-- Time accounting
-- Specific difficulties and resolutions
-- Reflection on learning process
+- Time accounting from daily logs
+- Specific difficulties and how they were (or weren't) resolved
+- Deep reflection on learning process, not surface description
 
 ---
 
@@ -1509,37 +1560,40 @@ Reread Week 0 Pre-Pilot Self-Assessment.
 
 1. **What did AI do well?**
    - Specific valuable contributions
-   - What kinds of questions/tasks?
+   - What kinds of questions/tasks did it handle effectively?
 
 2. **What did AI do poorly?**
    - Inadequate or misleading guidance
-   - What kinds of questions/tasks?
+   - What kinds of questions/tasks did it struggle with?
 
 3. **When was AI most valuable?**
    - Critical difference-making moments
+   - What would have been impossible without it?
 
 4. **When was AI unhelpful?**
    - Moments you ignored it or it misled
+   - Generic responses that added nothing
 
 5. **Did AI reveal genuine blind spots?**
    - Specific improvements it enabled
-   - Or just confirmed what you knew?
+   - Or did it just confirm what you already knew?
 
 6. **Was AI assessment accurate?**
    - Compare with self-assessment
    - Is AI reliable assessor?
-   - Limits?
+   - What are its assessment limits?
 
 7. **Could you achieve same learning more simply?**
    - Without AI apparatus?
-   - What did AI add?
+   - What did AI actually add to learning?
+   - Was the complexity justified?
 
 **Required:**
-- Critical evaluation—not uncritically positive/negative
-- Evidence from interactions
-- Assessment of whether AI justifies complexity
+- Critical evaluation—not uncritically positive or negative
+- Evidence from interactions throughout three weeks
+- Honest assessment of whether AI justifies complexity
 
-**Sub-section: The Mumford Question**
+**Sub-section: The Mumford Question (within 600 words)**
 
 *"The AI as Expert System: What Kind of Authority?"*
 
@@ -1551,14 +1605,15 @@ Drawing on Mumford's "authoritarian" vs. "democratic" technics:
 - Or genuine partnership enhancing autonomy?
 - Does AI create expert-dependency (as Smail critiques)?
 - Or develop independent judgment?
+- How did this relationship evolve over three weeks?
 
-**Evidence:** Patterns from three weeks
+**Evidence:** Patterns from all three weeks of Pilot B
 
 ---
 
 #### Section 4: Decision and Justification (300 words)
 
-**Choose ONE option and justify:**
+**Choose ONE option and justify with evidence:**
 
 ### Option A: Proceed with Full Module 1
 
@@ -1568,9 +1623,9 @@ Drawing on Mumford's "authoritarian" vs. "democratic" technics:
 - Why AI adds value justifying complexity
 - Specific evidence of improved outcomes
 - What you learned about using AI effectively
-- Modifications needed (if any)
+- Modifications needed based on pilot findings (if any)
 
-**Next steps:** Timeline for Module 1
+**Next steps:** Timeline for Module 1 start
 
 ---
 
@@ -1580,11 +1635,11 @@ Drawing on Mumford's "authoritarian" vs. "democratic" technics:
 
 **Justify:**
 - Why AI added little value
-- Evidence Pilot A was equally/more effective
+- Evidence Pilot A was equally or more effective
 - What AI prevented or obscured
-- Alternative plan
+- Alternative plan for continued study
 
-**Next steps:** How you'll structure future study
+**Next steps:** How you'll structure future study without AI
 
 ---
 
@@ -1596,9 +1651,9 @@ Drawing on Mumford's "authoritarian" vs. "democratic" technics:
 - Mixed results suggest needed changes
 - What worked and should be retained
 - What didn't and needs modification
-- Specific proposed changes
+- Specific proposed changes to framework
 
-**Next steps:** Redesign process and timeline
+**Next steps:** Redesign process and timeline for modified pilot or Module 1
 
 ---
 
@@ -1607,19 +1662,20 @@ Drawing on Mumford's "authoritarian" vs. "democratic" technics:
 **State:** "I need more data. I will extend the pilot."
 
 **Justify:**
-- Why current data insufficient
+- Why current data insufficient for decision
 - What additional comparison would clarify
-- Specific extended pilot plan
+- Specific extended pilot design
 
-**Next steps:** Design of extension
+**Next steps:** Design of extension (topics, duration, methods)
 
 ---
 
 **Whichever you choose:**
-- Defend with evidence
-- Be honest about data
-- Don't let sunk costs influence
-- Serve your learning, not project's existence
+- Defend with evidence from pilot data
+- Be honest about what data shows
+- Don't let sunk costs (time designing framework) influence decision
+- Serve your learning, not the project's existence
+- Negative results are legitimate and valuable findings
 
 ---
 
@@ -1629,13 +1685,13 @@ Drawing on Mumford's "authoritarian" vs. "democratic" technics:
 
 **Request:**
 "I've completed my comparative analysis [paste]. Please provide:
-1. Detailed feedback
-2. Assessment of whether decision is well-justified
+1. Detailed feedback on the analysis itself
+2. Assessment of whether my decision is well-justified by evidence
 3. Observations about learning patterns I may have missed
-4. Suggestions for proceeding (regardless of option)
-5. Critical questions: Where is analysis strongest? Weakest? What am I not seeing?"
+4. Suggestions for proceeding (regardless of which option I chose)
+5. Critical questions: Where is analysis strongest? Weakest? What am I not seeing? What am I avoiding?"
 
-Consider feedback.
+Consider feedback carefully.
 
 ---
 
@@ -1643,14 +1699,28 @@ Consider feedback.
 
 **Title:** "What This Pilot Taught Me"
 
-Beyond decision about AI, what did you learn about:
+Beyond decision about AI framework, what did you learn about:
 
 1. **Your own learning style and capabilities?**
+   - Strengths and weaknesses as learner
+   - What you need to learn effectively
+
 2. **The nature of consciousness and mind-body problem?**
+   - Genuine philosophical insights
+   - How has your position evolved?
+
 3. **The challenge of self-directed study?**
+   - What makes it work or fail?
+
 4. **What you need to learn effectively?**
+   - What resources, structures, guidance?
+
 5. **The relationship between reading, thinking, writing?**
+   - How do they interact in learning?
+
 6. **The value and limits of AI as learning partner?**
+   - What AI can and cannot provide
+   - Its role in intellectual development
 
 ---
 
@@ -1658,10 +1728,10 @@ Beyond decision about AI, what did you learn about:
 
 - Take 3-4 days off
 - Return to framework documents
-- Make modifications from pilot findings
+- Make modifications based on pilot findings
 - Set Module 1 start date
 - Acquire Module 1 readings
-- Prepare first week
+- Prepare first week materials
 
 **Begin with documented awareness of pilot findings**
 
@@ -1673,9 +1743,9 @@ Beyond decision about AI, what did you learn about:
 
 **Title:** "Why This Framework Wasn't Right for Me"
 
-- Consider alternative approach
-- Extract what was valuable
-- No shame—pilot did its job
+- What alternative approach will you take?
+- What was valuable from pilot that you'll retain?
+- No shame in this outcome—pilot did its job by revealing this
 
 ---
 
@@ -1715,7 +1785,9 @@ Routledge
 **3. Churchland, Patricia Smith (1986)**
 *Neurophilosophy: Toward a Unified Science of the Mind-Brain*
 MIT Press
-- Chapter 1: Introduction (~30 pages)
+- **Part II: "Recent Developments in the Philosophy of Science" (~100-150 pages)**
+
+**Note:** The book is organized in three parts. Part I ("Some Elementary Neuroscience") provides neuroscience background—skip unless you need context. Part III ("A Neurophilosophical Perspective") covers dated 1980s computational models—skip. Part II contains her philosophical arguments for reductive neurophilosophy, her account of intertheoretic reduction, responses to dualist objections, and the "co-evolution" methodology. This is what you need for understanding her position in philosophy of mind debates.
 
 **4. Ingold, Tim (2000)**
 *The Perception of the Environment: Essays on Livelihood, Dwelling and Skill*
@@ -2103,7 +2175,7 @@ The pilot only works if you're brutally honest. If Pilot A produced equal or bet
 
 ### On Flexibility
 
-If during either pilot you realize the comparison isn't working as designed (readings too hard/easy, time estimates off), pause and adjust. Document why. This is more honest than forcing through flawed design.
+If during either pilot you realize the comparison isn't working as designed (readings too hard/easy, time estimates off, structure problematic), pause and adjust. Document why. This is more honest than forcing through flawed design.
 
 ### On "Negative" Results
 
@@ -2125,3 +2197,5 @@ Then begin.
 ---
 
 *This curriculum prepared November 2025 for experimental pilot in AI-mediated learning. All intellectual work remains the student's own; AI provides guidance and feedback only.*
+
+*Version 1.1: Corrected Churchland reading from "Chapter 1 (~30 pages)" to "Part II: Recent Developments in the Philosophy of Science (~100-150 pages)" with adjusted Week 5 schedule.*
