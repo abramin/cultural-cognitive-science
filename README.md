@@ -1,4 +1,5 @@
-# cultural-cognitive-science
+# Cultural Cognitive Science - A project in AI-Mediated Learning
+
 
 
 
