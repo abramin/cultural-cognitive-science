@@ -6,7 +6,7 @@
 
 ---
 
-**Document Version:** 1.1 (Corrected)  
+**Document Version:** 1.2 (Corrected)  
 **Created:** November 2025  
 **Purpose:** Complete working curriculum for experimental pilot phase
 
@@ -116,8 +116,10 @@ You need to obtain these texts before starting. Allow 2-3 days for library acces
 
 #### For Pilot A (Weeks 1-3): Consciousness
 
-1. **Bermúdez, J.L.** (2020). *Philosophy of Psychology: A Contemporary Introduction* (2nd ed.). Routledge.
-   - **You need:** Chapter 5 (Consciousness and Subjectivity), approximately 40 pages
+1. **Chalmers, D.J.** (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200-219.
+   - **Where to find:** Available online at https://consc.net/papers/facing.html or through academic databases
+   - **Length:** ~20 pages
+   - **Why this reading:** Clearly distinguishes "easy" problems (explaining functions) from "hard" problem (explaining subjective experience) of consciousness
 
 2. **Nagel, T.** (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
    - **Where to find:** JSTOR, or in Nagel's book *Mortal Questions* (1979)
@@ -128,8 +130,11 @@ You need to obtain these texts before starting. Allow 2-3 days for library acces
 
 #### For Pilot B (Weeks 4-6): Mind-Body Problem and Embodiment
 
-1. **Bermúdez, J.L.** (2020). *Philosophy of Psychology* (2nd ed.).
-   - **You need:** Chapter 8 (The Mind-Body Problem), approximately 35 pages
+1. **Kim, J.** (2011). *Philosophy of Mind* (3rd ed.). Westview Press.
+   - **You need:** Chapter 2 "Mind as Behavior: Behaviorism" (~20 pages) + Chapter 3 "Mind-Brain Identity Theory" (~20 pages)
+   - **Total:** approximately 40 pages
+   - **Why this reading:** Clear, accessible coverage of the historical progression from dualism through behaviorism, identity theory, to functionalism
+   - **Alternative if unavailable:** Stanford Encyclopedia of Philosophy entries on "Dualism" (https://plato.stanford.edu/entries/dualism/) and "The Mind/Brain Identity Theory" (https://plato.stanford.edu/entries/mind-identity/) - read Introduction and first 2-3 sections of each (~35-40 pages total)
 
 2. **Merleau-Ponty, M.** (1945/2012). *Phenomenology of Perception* (D. Landes, Trans.). Routledge.
    - **You need:** Preface and Introduction only, approximately 30 pages
@@ -253,24 +258,24 @@ Copy the templates from the [Templates section](#templates-and-forms) into your 
 **Goal:** Develop initial understanding of consciousness as a philosophical problem
 
 **Reading Assignment:**
-1. Bermúdez, Chapter 5: Consciousness and Subjectivity (~40 pages)
+1. Chalmers, "Facing Up to the Problem of Consciousness" (~20 pages)
 2. Nagel, "What Is It Like to Be a Bat?" (~8 pages)
 
 #### Day 1: Monday (2-2.5 hours)
 
 **Reading:**
-- Bermúdez Chapter 5, first half (pages 1-20, to mid-chapter break)
+- Chalmers, "Facing Up to the Problem of Consciousness" (first half, approximately pages 1-10)
 
 **Focus on:**
-- What is phenomenal consciousness?
-- What is access consciousness?
-- What is the "hard problem"?
+- What is the "easy problem" of consciousness?
+- What is the "hard problem" of consciousness?
+- Why does Chalmers think functional explanation can't explain phenomenal consciousness?
 
 **Tasks:**
 - Take detailed notes on main concepts
 - Write down terms you don't understand
 - Look up unfamiliar terms in Stanford Encyclopedia
-- Identify: What is Bermúdez's main question?
+- Identify: What is Chalmers's main argument?
 
 **Documentation:**
 - Complete daily log entry
@@ -281,14 +286,16 @@ Copy the templates from the [Templates section](#templates-and-forms) into your 
 #### Day 2: Tuesday (2-2.5 hours)
 
 **Reading:**
-- Bermúdez Chapter 5, second half (pages 21-40)
+- Chalmers, "Facing Up to the Problem of Consciousness" (second half, approximately pages 11-20)
 
 **Focus on:**
-- How do different theories attempt to explain consciousness?
+- How does Chalmers propose to approach the hard problem?
+- What does he mean by "experience" or "phenomenal consciousness"?
+- Why can't reductive explanation work for consciousness?
 
 **Tasks:**
 - Continue detailed notes
-- Synthesize: What is the overall argument of this chapter?
+- Synthesize: What is the overall argument of this paper?
 - Create a concept map if helpful
 - Reread confusing sections
 
@@ -336,7 +343,7 @@ Copy the templates from the [Templates section](#templates-and-forms) into your 
 #### Day 5: Friday (2-2.5 hours)
 
 **Review and Synthesis:**
-- Review all notes from Bermúdez and Nagel
+- Review all notes from Chalmers and Nagel
 - Identify connections between them
 
 **Writing Task:**
@@ -766,7 +773,7 @@ Rest and approach Pilot B fresh, without fatigue.
 **Goal:** Understand positions on mind-body problem, with emphasis on phenomenology
 
 **Reading Assignment:**
-1. Bermúdez, Chapter 8: The Mind-Body Problem (~35 pages)
+1. Kim, *Philosophy of Mind* Chapters 2-3: Behaviorism and Identity Theory (~40 pages) **OR** Stanford Encyclopedia entries on Dualism and Mind-Brain Identity Theory (~35-40 pages)
 2. Merleau-Ponty, *Phenomenology of Perception* - Preface & Introduction (~30 pages)
 
 #### Before You Begin: Initial AI Consultation
@@ -774,15 +781,15 @@ Rest and approach Pilot B fresh, without fatigue.
 **On Sunday evening or Monday morning, ask Claude:**
 
 "I'm beginning Pilot B of my comparative learning experiment. The topic is the mind-body problem, moving from historical dualism through reductionism to embodiment theory. I'll be reading:
-- Bermúdez's overview (Chapter 8)
+- Kim's *Philosophy of Mind* chapters on behaviorism and identity theory (or Stanford Encyclopedia entries on dualism and mind-brain identity)
 - Merleau-Ponty's phenomenology
 - Churchland's neurophilosophy (next week)
 - Ingold's embodied anthropology (next week)
 
 Before I begin:
-1. What should I prioritize in Bermúdez Chapter 8?
+1. What should I prioritize in Kim's chapters (or the Stanford Encyclopedia entries)?
 2. What key concepts should I watch for?
-3. How does the progression from Descartes through behaviorism to functionalism set up contemporary debates?
+3. How does the progression from Descartes through behaviorism to identity theory set up contemporary debates?
 4. What's likely to be most difficult?
 5. What connections should I track?"
 
@@ -793,13 +800,14 @@ Before I begin:
 #### Day 1: Monday (2-2.5 hours)
 
 **Reading:**
-- Bermúdez Chapter 8, pages 1-12 (Descartes, dualism, behaviorism)
+- Kim Chapter 2: "Mind as Behavior: Behaviorism" (pages 1-10, approximately first half) **OR** Stanford Encyclopedia "Dualism" entry, Introduction and sections 1-2
 
 **Tasks:**
 - Read with attention to Claude's guidance
 - Take notes
 - **Ask Claude questions as they arise:**
-  - Example: "Bermúdez discusses Descartes' interactionism. Why was the pineal gland important to his theory?"
+  - Example: "Kim discusses logical behaviorism vs. analytical behaviorism. What's the difference and why does it matter?"
+  - **OR** "The Stanford entry discusses substance dualism vs. property dualism. Can you clarify this distinction with examples?"
 
 **Evening Check-in:**
 - **Ask Claude:** "Here are my notes [paste]. Have I understood correctly? What have I missed?"
@@ -814,15 +822,16 @@ Before I begin:
 #### Day 2: Tuesday (2-2.5 hours)
 
 **Reading:**
-- Bermúdez Chapter 8, pages 13-24 (identity theory, functionalism)
+- Kim Chapter 2 (second half) + begin Chapter 3: "Mind-Brain Identity Theory" (pages 1-10) **OR** Stanford Encyclopedia "Dualism" (finish) + begin "Mind/Brain Identity Theory" entry
 
 **Tasks:**
 - Continue reading and notes
 - **Ask questions:**
   - Example: "Token vs. type identity theory—I don't understand the distinction. Can you clarify with examples?"
+  - **OR** "What exactly is the problem of 'multiple realizability' for identity theory?"
 
 **Evening Check-in:**
-- **Ask Claude:** "My understanding of functionalism is [explanation]. Is this accurate? What nuances am I missing?"
+- **Ask Claude:** "My understanding of identity theory is [explanation]. Is this accurate? What nuances am I missing?"
 
 **Documentation:**
 - `/ai_interactions/week4_day2.md`
@@ -833,15 +842,15 @@ Before I begin:
 #### Day 3: Wednesday (2-2.5 hours)
 
 **Reading:**
-- Bermúdez Chapter 8, pages 25-35 (physicalism, contemporary debates)
+- Kim Chapter 3 (complete) **OR** Stanford Encyclopedia "Mind/Brain Identity Theory" (complete)
 
 **Tasks:**
-- Complete chapter
-- **Ask Claude:** "I've finished Bermúdez Chapter 8. Help me identify the main argument arc. Here's what I think: [summary]"
+- Complete reading
+- **Ask Claude:** "I've finished Kim's chapters on behaviorism and identity theory (or the Stanford Encyclopedia entries). Help me identify the main argument arc. Here's what I think: [summary]"
 - Refine understanding
 
 **Evening Check-in:**
-- **Ask Claude:** "Before Merleau-Ponty tomorrow, help me understand: What are the main positions on mind-body problem? How do they relate historically and conceptually?"
+- **Ask Claude:** "Before Merleau-Ponty tomorrow, help me understand: What are the main positions on mind-body problem? How do they relate historically and conceptually? How does identity theory differ from dualism and behaviorism?"
 - Construct conceptual map with Claude
 
 **Documentation:**
@@ -856,7 +865,7 @@ Before I begin:
 - Merleau-Ponty, Preface (first half)
 
 **Before Reading:**
-- **Ask Claude:** "I'm about to read Merleau-Ponty's Preface. How does his phenomenology relate to positions Bermúdez outlined? What should I look for? What will be difficult?"
+- **Ask Claude:** "I'm about to read Merleau-Ponty's Preface. How does his phenomenology relate to the positions Kim outlined (dualism, behaviorism, identity theory)? What should I look for? What will be difficult?"
 
 **Tasks:**
 - Read with Claude's framing
@@ -884,7 +893,7 @@ Before I begin:
   - "Let's discuss Merleau-Ponty's critique of dualism. He rejects both Cartesian dualism and reductive physicalism. What's his alternative? How does 'embodiment' differ from both?"
 
 **Evening Check-in:**
-- **Ask Claude:** "How does Merleau-Ponty challenge the positions Bermúdez outlined? What would he say to identity theorists or functionalists?"
+- **Ask Claude:** "How does Merleau-Ponty challenge the positions Kim outlined (dualism, behaviorism, identity theory)? What would he say to identity theorists or functionalists?"
 
 **Documentation:**
 - `/ai_interactions/week4_day5.md`
@@ -1073,7 +1082,7 @@ Before I begin:
 **"Is Consciousness Reducible to Brain Processes? Evaluate with reference to Churchland and at least one critic."**
 
 **Task:**
-- **Ask Claude:** "I need to write this essay. Given my readings—Bermúdez, Merleau-Ponty, Churchland's Part II, Ingold, Mumford—help me think through:
+- **Ask Claude:** "I need to write this essay. Given my readings—Kim (or Stanford Encyclopedia entries), Merleau-Ponty, Churchland's Part II, Ingold, Mumford—help me think through:
   1. What should my thesis address? What are the key dimensions of the reduction question?
   2. How should I structure the essay?
   3. Which thinkers should I focus on? I could use Merleau-Ponty or Ingold as primary critic of Churchland—which offers stronger critical purchase?
@@ -1753,10 +1762,12 @@ Beyond decision about AI framework, what did you learn about:
 
 ### Pilot A: Consciousness and Intentionality
 
-**1. Bermúdez, José Luis (2020)**
-*Philosophy of Psychology: A Contemporary Introduction* (2nd ed.)
-Routledge
-- Chapter 5: Consciousness and Subjectivity (~40 pages)
+**1. Chalmers, David J. (1995)**
+"Facing Up to the Problem of Consciousness"
+*Journal of Consciousness Studies*, 2(3), 200-219
+Also available at: https://consc.net/papers/facing.html
+- Read: Entire article (~20 pages)
+- Focus: The distinction between "easy" and "hard" problems of consciousness
 
 **2. Nagel, Thomas (1974)**
 "What Is It Like to Be a Bat?"
@@ -1772,10 +1783,21 @@ Little, Brown and Company
 
 ### Pilot B: Mind-Body Problem and Embodiment
 
-**1. Bermúdez, José Luis (2020)**
-*Philosophy of Psychology: A Contemporary Introduction* (2nd ed.)
-Routledge
-- Chapter 8: The Mind-Body Problem (~35 pages)
+**1. Kim, Jaegwon (2011)**
+*Philosophy of Mind* (3rd ed.)
+Westview Press
+- Chapter 2: "Mind as Behavior: Behaviorism" (~20 pages)
+- Chapter 3: "Mind-Brain Identity Theory" (~20 pages)
+- Total: ~40 pages
+- Focus: Historical development from dualism through behaviorism to identity theory
+
+**Alternative if Kim unavailable:**
+- **Robinson, Howard** (2023). "Dualism" in *Stanford Encyclopedia of Philosophy*
+  - URL: https://plato.stanford.edu/entries/dualism/
+  - Read: Introduction and sections 1-3 (~15-20 pages)
+- **Smart, J.J.C. & Thagard, Paul** (2022). "The Mind/Brain Identity Theory" in *Stanford Encyclopedia of Philosophy*
+  - URL: https://plato.stanford.edu/entries/mind-identity/
+  - Read: Introduction and sections 1-3 (~15-20 pages)
 
 **2. Merleau-Ponty, Maurice (1945/2012)**
 *Phenomenology of Perception* (D. Landes, Trans.)
@@ -1824,25 +1846,22 @@ Routledge
 
 ## Date: [Date]
 
-| Field         | Value |
-| ------------- | ----- |
-| Start Time    |       |
-| End Time      |       |
-| Activity      |       |
-| Energy (1-5)  |       |
-| Mood (1-5)    |       |
-| Clarity (1-5) |       |
-| Quality (1-5) |       |
+### Time Invested Today: [hours]
 
 ### What I Read/Studied:
+- 
 
 ### What Was Difficult:
+- 
 
 ### Questions That Arose:
+- 
 
 ### How I Addressed Confusion (or didn't):
+- 
 
 ### What I Wish I Had Access To:
+- 
 
 ### Confidence Level in Today's Learning (1-10):
 
@@ -2201,4 +2220,6 @@ Then begin.
 
 *This curriculum prepared November 2025 for experimental pilot in AI-mediated learning. All intellectual work remains the student's own; AI provides guidance and feedback only.*
 
-*Version 1.1: Corrected Churchland reading from "Chapter 1 (~30 pages)" to "Part II: Recent Developments in the Philosophy of Science (~100-150 pages)" with adjusted Week 5 schedule.*
+*Version 1.2: Corrections made to reading assignments:*
+- *Corrected Churchland reading from "Chapter 1 (~30 pages)" to "Part II: Recent Developments in the Philosophy of Science (~100-150 pages)" with adjusted Week 5 schedule*
+- *Replaced Bermúdez (non-existent 2nd edition) with Chalmers "Facing Up to the Problem of Consciousness" for Pilot A and Kim's Philosophy of Mind (or Stanford Encyclopedia alternatives) for Pilot B*
