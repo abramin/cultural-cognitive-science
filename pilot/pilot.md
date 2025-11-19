@@ -6,7 +6,7 @@
 
 ---
 
-**Document Version:** 1.2 (Corrected)  
+**Document Version:** 1.3 (Corrected)  
 **Created:** November 2025  
 **Purpose:** Complete working curriculum for experimental pilot phase
 
@@ -1846,22 +1846,22 @@ Routledge
 
 ## Date: [Date]
 
-### Time Invested Today: [hours]
+| Field         | Value |
+| ------------- | ----- |
+| Total Time    |       |
+| Energy (1-5)  |       |
+| Mood (1-5)    |       |
+| Clarity (1-5) |       |
 
 ### What I Read/Studied:
-- 
 
 ### What Was Difficult:
-- 
 
 ### Questions That Arose:
-- 
 
 ### How I Addressed Confusion (or didn't):
-- 
 
 ### What I Wish I Had Access To:
-- 
 
 ### Confidence Level in Today's Learning (1-10):
 
@@ -2220,6 +2220,5 @@ Then begin.
 
 *This curriculum prepared November 2025 for experimental pilot in AI-mediated learning. All intellectual work remains the student's own; AI provides guidance and feedback only.*
 
-*Version 1.2: Corrections made to reading assignments:*
-- *Corrected Churchland reading from "Chapter 1 (~30 pages)" to "Part II: Recent Developments in the Philosophy of Science (~100-150 pages)" with adjusted Week 5 schedule*
-- *Replaced Bermúdez (non-existent 2nd edition) with Chalmers "Facing Up to the Problem of Consciousness" for Pilot A and Kim's Philosophy of Mind (or Stanford Encyclopedia alternatives) for Pilot B*
+*Version 1.3:*
+- *Daily template updated to record total time spent instead of start/stop time to allow multiple sessions per day*

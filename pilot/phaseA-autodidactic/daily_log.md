@@ -5,8 +5,7 @@
 
 | Field         | Value |
 | ------------- | ----- |
-| Start Time    |       |
-| End Time      |       |
+| Total Time    |       |
 | Energy (1-5)  |       |
 | Mood (1-5)    |       |
 | Clarity (1-5) |       |
