@@ -1,6 +1,4 @@
 # Daily Log: Pilot A (Autodidactic)
-
-
 ## Date: [Date]
 
 | Field         | Value |
@@ -23,6 +21,57 @@
 ### Confidence Level in Today's Learning (1-10):
 
 ### Additional Notes:
+
+## Date: [19/11/2025]
+
+| Field         | Value |
+| ------------- | ----- |
+| Total Time    |   75    |
+| Energy (1-5)  |    3   |
+| Mood (1-5)    |     3  |
+| Clarity (1-5) |     3  |
+
+### What I Read/Studied:
+
+* pages 16-20 of Chalmers(1995) - Facing up to the problem of consciousness, remaining principles of his proposed theory of consciousness (Organizational coherence, double aspect information)
+
+* Nagel, *What is like to be a bat* (Mortal Questions)
+
+### What Was Difficult:
+    
+* Chalmers thought experiment to illustrate the organizational coherence prinicple
+* Finer details of Nagel's argument. His footnote discussion of Kripke
+
+### Questions That Arose:
+
+#### Chalmers
+
+* Much of his argument rests on physicalist assumption (phsyical is fundamental) - has he addressed this?
+* Shannon's theory of information - information states and space - understand this better.  
+* He mention´s Searles argument that consicous experience depends on specific biologies but does not address it - what is the argument?
+
+#### Nagel
+
+* What is his view on relation between mind and brain?
+
+### How I Addressed Confusion (or didn't):
+
+* re-read and drew out the thought experiment on biological and silicon isomorphs 
+    with switching neurons for silicon chips and inverting qualia
+
+### What I Wish I Had Access To:
+
+* secondary sources discussing Chalmer´s arguments
+* An interlocutor to discuss the ideas with.
+
+### Confidence Level in Today's Learning (1-10):
+
+* 8 (revisiting unclear argument and drawing it out helped)
+
+### Additional Notes:
+
+* Reading article split ove 3 days, i wonder if a first pass just reading with no notes, then revisiting a second time would help deepen retention
+* First read and high level notes on Nagel, to reread tomorrow
 
 ## Date: [18/11/2025]
 
@@ -103,27 +152,5 @@ When reading an article like this, I often look up counter-arguments to check th
 ### Additional Notes:
 
 I´ve not read this before but i´ve encountered the basic argument second hand several times over the last 20 years.
-
-## Date: [Date]
-
-| Field         | Value |
-| ------------- | ----- |
-| Start Time    |       |
-| End Time      |       |
-| Energy (1-5)  |       |
-| Mood (1-5)    |       |
-| Clarity (1-5) |       |
-
-### What I Read/Studied:
-
-### What Was Difficult:
-
-### Questions That Arose:
-
-### How I Addressed Confusion (or didn't):
-
-### What I Wish I Had Access To:
-
-### Confidence Level in Today's Learning (1-10):
 
 ### Additional Notes:
