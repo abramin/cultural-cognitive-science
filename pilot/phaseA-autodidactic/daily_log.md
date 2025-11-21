@@ -22,6 +22,52 @@
 
 ### Additional Notes:
 
+## Date: [21/11/2025]
+
+| Field         | Value |
+| ------------- | ----- |
+| Total Time    |   45    |
+| Energy (1-5)  |  2     |
+| Mood (1-5)    |   4    |
+| Clarity (1-5) |   4    |
+
+### What I Read/Studied:
+
+* Nagel, *What is like to be a bat* (Mortal Questions)
+
+### What Was Difficult:
+
+* Trying to summarize his argument tidily, 
+
+### Questions That Arose:
+
+* I wonder how of the problem itselft (the mind-body problem)
+ depends on the specific cultural-historical-philosophical context?
+ * Is there another way of thinking about our experience that doesn´t depend on concepts of object and subject? Or are these like space/time part of our mental architecture?
+
+### How I Addressed Confusion (or didn't):
+
+### What I Wish I Had Access To:
+
+* responses to Nagel to understand how others view his argument
+
+### Confidence Level in Today's Learning (1-10):
+
+4 - second reading clearer
+
+### Additional Notes:
+- Identify: What premises lead to Nagel's conclusion?
+    
+    * Subjective conscious experience is a widespread phenomonen
+    * Standard scientific reduction in the direction of greater objectivity cannot be applied here since it omits the very thing in question - subjectivity
+    * Physicalism may be false or true but we do not have a conceptual toolkit to know
+    * we could develop an objective phenomenology of the subjective as a first step
+
+- Where are you most/least convinced?
+   * I agree we could develop the objective phenomenology he proposes but doubt it would resolve the question. I think a different framing is needed (i.e. idealism, panpsychism)
+   * I think his framing of the problem with reductionism (i.e the category error) is clear 
+ 
+
 ## Date: [19/11/2025]
 
 | Field         | Value |
