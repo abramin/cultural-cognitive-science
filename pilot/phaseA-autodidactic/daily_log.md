@@ -53,7 +53,7 @@
 
 ### Confidence Level in Today's Learning (1-10):
 
-4 - second reading clearer
+8 - second reading clearer
 
 ### Additional Notes:
 - Identify: What premises lead to Nagel's conclusion?
