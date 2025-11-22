@@ -2,6 +2,7 @@
 
 * [Pilot](./pilot/pilot.md) 
     * [Pre-pilot Self-Assessment](./pilot/pre-pilot-self-assessment.md)
+* [Degree Syllabus](./syllabus/degree.md)
 
 
 # **Experimental Framework: AI-Accredited BSc in Cognitive–Cultural Science**
@@ -25,7 +26,7 @@ To examine the feasibility and epistemic implications of completing a full under
 
 The project replicates the structure of a BPS-aligned, Cambridge-style BSc (Hons) in Cognitive–Cultural Science, combining psychology, philosophy, and anthropology.
 
-The student (Alex) will complete all academic work, while the AI functions as:
+The student will complete all academic work, while the AI functions as:
 
 | **Role** | **Function** | **Limitation** |
 | --- | --- | --- |
