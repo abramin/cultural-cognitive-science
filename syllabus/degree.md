@@ -25,20 +25,29 @@ Each year contains core modules (psychology, philosophy, anthropology integrated
 
 **Year 1 – Foundations of Mind, Culture, and Behaviour**
 
-Core Modules
+## Core Modules
 
-1. Mind, Culture, and the Foundations of Psychological Science
+### *1. Mind, Culture, and the Foundations of Psychological Science*
+
 Introduction to psychology as a science of mind and culture; historical roots in philosophy and anthropology.
-2. Introduction to Cognitive Psychology
+
+### *2. Introduction to Cognitive Psychology*
+
 Perception, attention, and memory; experimental and computational approaches.
-3. Philosophy and Anthropology of the Self
+
+### *3. Philosophy and Anthropology of the Self*
+
 Comparative ideas of personhood from Descartes to Mauss, James, and contemporary cultural psychology.
-4. Reasoning, Logic, and the Structure of Thought
+
+### *4. Reasoning, Logic, and the Structure of Thought*
+
 Logic, argument, and conceptual analysis; scientific inference and epistemic humility.
-5. Quantitative Research Methods I
+
+### *5. Quantitative Research Methods I*
+
 Statistics for psychology using Python/R; design and analysis of simple experiments.
 
-Elective Menu
+## Elective Menu
 
 - Mathematics for the Human Sciences
 - Classical Literature and the Idea of the Self
@@ -47,20 +56,28 @@ Elective Menu
 
 **Year 2 – Development, Society, and Knowledge**
 
-Core Modules
+## Core Modules
 
-1. Developmental and Social Psychology
+### *1. Developmental and Social Psychology*
+
 Human development across the lifespan; social cognition and cross-cultural variation.
-2. Anthropology of Mind and Self
+
+### *2. Anthropology of Mind and Self*
+
 Ethnographic perspectives on cognition, ritual, and social identity; symbolic anthropology and meaning.
-3. Philosophy of Science and Knowledge
+
+### *3. Philosophy of Science and Knowledge*
+
 Theories of explanation, realism, and the epistemology of the human sciences.
-4. Biological Bases of Behaviour
+
+### *4. Biological Bases of Behaviour*
+
 Neurophysiology, genetics, and evolutionary psychology; culture–brain co-evolution.
-5. Quantitative Research Methods II
+
+### *5. Quantitative Research Methods II*
 Inferential statistics, correlational design, and reproducible open-data studies.
 
-Elective Menu
+## Elective Menu
 
 - History of Psychology and Psychiatry
 - Comparative Literature and the Unconscious
@@ -69,20 +86,29 @@ Elective Menu
 
 **Year 3 – Symbol, Meaning, and Consciousness**
 
-Core Modules
+## Core Modules
 
-1. Individual Differences and Mental Health
+### *1. Individual Differences and Mental Health*
+
 Personality, intelligence, and psychopathology; integrative biopsychosocial models.
-2. Symbol, Ritual, and Meaning
-Symbolic anthropology, myth, and cultural representations of consciousness.
-3. Philosophy of Emotion and Embodiment
-Phenomenology, cognitive neuroscience, and moral emotion theory.
-4. Qualitative and Phenomenological Research Methods
-Ethnography, interpretative phenomenological analysis, and reflective fieldwork.
-5. Philosophy of Psychology (Advanced Seminar)
-Close reading of Bermúdez’s Philosophy of Psychology and related works; conceptual foundations of cognitive science.
 
-Elective Menu
+### *2. Symbol, Ritual, and Meaning*
+
+Symbolic anthropology, myth, and cultural representations of consciousness.
+
+### *3. Philosophy of Emotion and Embodiment*
+
+Phenomenology, cognitive neuroscience, and moral emotion theory.
+
+### *4. Qualitative and Phenomenological Research Methods*
+
+Ethnography, interpretative phenomenological analysis, and reflective fieldwork.
+
+### *5. Philosophy of Psychology (Advanced Seminar)*
+
+Close reading Philosophy of Psychology and related works; conceptual foundations of cognitive science.
+
+## Elective Menu
 
 - History of Ideas: Modernity and the Self
 - Literature and Consciousness
@@ -91,18 +117,25 @@ Elective Menu
 
 **Year 4 – Integration and Application**
 
-Core Modules
+## Core Modules
 
-1. Advanced Topics in Cognitive–Cultural Science
+### *1. Advanced Topics in Cognitive–Cultural Science*
+
 Cutting-edge research: predictive processing, neuroanthropology, AI, embodied cognition.
-2. Metaphysics and Ethics of Mind
+
+### *2. Metaphysics and Ethics of Mind*
+
 Consciousness, free will, moral agency, and the value of personhood across cultures.
-3. Applied Psychology and Professional Ethics
+
+### *3. Applied Psychology and Professional Ethics*
+
 Evidence-based practice, cultural competence, and professional standards.
-4. Capstone Dissertation and Oral Defence
+
+### *4. Capstone Dissertation and Oral Defence*
+
 Independent research project integrating psychological, philosophical, and anthropological analysis.
 
-Elective Menu
+## Elective Menu
 
 - Aesthetics and the Philosophy of Experience
 - Computational Methods in Cognitive Science
