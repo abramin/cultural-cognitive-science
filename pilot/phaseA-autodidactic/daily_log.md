@@ -34,7 +34,11 @@
 
 ### What I Read/Studied:
 
+* reviewed notes on chalmers and nagel
+
 ### What Was Difficult:
+
+* Distinguishing nagel´s central argument from additional or tangential points
 
 ### Questions That Arose:
 
@@ -42,9 +46,16 @@
 
 ### What I Wish I Had Access To:
 
+* someone to revise my essay
+
 ### Confidence Level in Today's Learning (1-10):
 
+8
+
 ### Additional Notes:
+
+* Wrote single draft of nagel summary after rereading notes
+
 
 ## Date: [21/11/2025]
 
