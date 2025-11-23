@@ -1,6 +1,5 @@
 ### Weekly Reflection Template (Pilot A)
 
-```markdown
 # Weekly Reflection: Pilot A, Week [X]
 
 ## Date: [Date]
@@ -50,8 +49,7 @@ Being able to speak to someone about the readings would help. A peer could act a
 I think Chalmers (and many of his arguments) are materialist biased so I think he begs the question on the metaphysics of some of his proposals (“We know physical processes cause mental ones…”)
 
 ### Confidence Assessment (1-10): 7
+### Why This Rating: 
 
-### Why This Rating: I could follow the readings, I reread each of them and my notes at least twice so more deeply than I normally read. I think I find drawing out the central arguments of an essay challenging (at least these two pieces).
+I could follow the readings, I reread each of them and my notes at least twice so more deeply than I normally read. I think I find drawing out the central arguments of an essay challenging (at least these two pieces).
 I think I failed to grasp until the end that the real point of both pieces was really about 3rd person perspectives on first person experience. Even though both pieces dealt with the hard problem of consciousness, and the failure of reductive theories to explain subjective experience, they weren't primarily about the metaphysical question, but more epistemologically focussed. I had mostly approached this topic metaphysically so couldn't see the epistemological purpose of each essay until today.
-
-```
