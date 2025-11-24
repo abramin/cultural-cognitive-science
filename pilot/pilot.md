@@ -6,7 +6,7 @@
 
 ---
 
-**Document Version:** 1.3 (Corrected)  
+**Document Version:** 1.4 (Reading Schedule Corrected)  
 **Created:** November 2025  
 **Purpose:** Complete working curriculum for experimental pilot phase
 
@@ -126,7 +126,11 @@ You need to obtain these texts before starting. Allow 2-3 days for library acces
    - **Length:** 8 pages
 
 3. **Dennett, D.** (1991). *Consciousness Explained*. Little, Brown and Company.
-   - **You need:** Chapter 2 (Explaining Consciousness), approximately 30 pages
+   - **You need:** 
+     - Chapter 2 "Explaining Consciousness" (32 pages)
+     - Chapter 3 "A Visit to the Phenomenological Garden" (40 pages)
+     - Chapter 4 "A Method for Phenomenology" (first 25-30 pages focusing on heterophenomenology)
+   - **Total:** approximately 97-102 pages
 
 #### For Pilot B (Weeks 4-6): Mind-Body Problem and Embodiment
 
@@ -386,20 +390,26 @@ Copy the templates from the [Templates section](#templates-and-forms) into your 
 **Goal:** Understand Dennett's response to Nagel and evaluate the debate
 
 **Reading Assignment:**
-1. Dennett, *Consciousness Explained* Chapter 2 (~30 pages)
+1. Dennett, *Consciousness Explained*:
+   - Chapter 2: "Explaining Consciousness" (32 pages)
+   - Chapter 3: "A Visit to the Phenomenological Garden" (40 pages)
+   - Chapter 4: "A Method for Phenomenology" (first 25-30 pages)
 2. Return to Nagel with Dennett in mind
 
 #### Day 1: Monday (2.5-3 hours)
 
 **Reading:**
-- Dennett Chapter 2, first half (pages 1-15)
-- **Note:** Dennett is dense—may take longer
+- Dennett Chapter 2: "Explaining Consciousness" (complete, 32 pages)
+
+**Focus on:**
+- Dennett's foundational approach to consciousness
+- His three ground rules
+- Initial framing of the problem
 
 **Tasks:**
 - Take careful notes
 - Identify: What is Dennett trying to accomplish?
-- What is his method (heterophenomenology)?
-- How does his approach differ from Nagel's?
+- How does his approach differ from what you've read so far?
 
 **Documentation:**
 - Daily log entry
@@ -410,42 +420,60 @@ Copy the templates from the [Templates section](#templates-and-forms) into your 
 #### Day 2: Tuesday (2.5-3 hours)
 
 **Reading:**
-- Dennett Chapter 2, second half (pages 16-30)
+- Dennett Chapter 3: "A Visit to the Phenomenological Garden" (first half, approximately pages 1-20)
 
 **Focus on:**
-- Dennett's positive account of consciousness
+- The phenomenological landscape Dennett surveys
+- His treatment of "What Is It Like to Be a Bat?"
 
 **Tasks:**
-- Complete notes on Dennett
-- Synthesize: What is Dennett's main claim?
-- What is his critique of Nagel?
+- Continue detailed notes
+- Identify: How does Dennett engage with Nagel's argument?
 
 **Documentation:**
 - Daily log entry
 
 ---
 
-#### Day 3: Wednesday (2 hours)
+#### Day 3: Wednesday (2.5-3 hours)
 
-**Review and Compare:**
-- Reread key sections of Dennett
-- No new reading
+**Reading:**
+- Dennett Chapter 3: "A Visit to the Phenomenological Garden" (second half, approximately pages 21-40)
 
 **Tasks:**
-- Identify: What does Dennett think is wrong with Nagel?
-- Where do they disagree most fundamentally?
+- Complete Chapter 3
+- Synthesize: What is Dennett's response to Nagel?
 
 **Documentation:**
 - Daily log entry
-- Write: What is the crux of their disagreement?
 
 ---
 
-#### Day 4: Thursday (2 hours)
+#### Day 4: Thursday (2.5-3 hours)
 
-**Comparative Analysis:**
+**Reading:**
+- Dennett Chapter 4: "A Method for Phenomenology" (first 25-30 pages, focusing on heterophenomenology)
 
-**Task:** Create detailed comparison table:
+**Focus on:**
+- What is heterophenomenology?
+- How does this method address Nagel's challenge?
+- This is Dennett's methodological answer to "Can third-person science capture first-person experience?"
+
+**Tasks:**
+- Master heterophenomenology concept
+- Note: How does this respond to the problems Nagel raised?
+
+**Documentation:**
+- Daily log entry
+- Note: Synthesizing main lines of disagreement
+
+---
+
+#### Day 5: Friday (2.5-3 hours)
+
+**Review, Compare, and Critical Evaluation:**
+
+**Part 1: Create Comparison Table**
 
 | Aspect | Nagel | Dennett |
 |--------|-------|---------|
@@ -458,26 +486,17 @@ Copy the templates from the [Templates section](#templates-and-forms) into your 
 | Strengths | | |
 | Weaknesses | | |
 
-**Documentation:**
-- Daily log entry
-- Save this table for essay
-
----
-
-#### Day 5: Friday (2 hours)
-
-**Critical Evaluation:**
+**Part 2: Critical Evaluation**
 - Return to Nagel with Dennett's critique in mind
-- Reread "What Is It Like to Be a Bat?" (third time, quick)
-
-**Tasks:**
-- Who is more persuasive? Why?
-- What would Nagel say to Dennett?
-- What would Dennett say back?
+- Reread key sections of "What Is It Like to Be a Bat?" (focusing on main argument)
+- Evaluate: Who is more persuasive? Why?
+- What would Nagel say to Dennett's heterophenomenology?
+- What would Dennett say to Nagel's bat?
 - Where do you stand?
 
 **Documentation:**
 - Daily log entry
+- Save comparison table for essay
 - Note: Beginning to formulate essay argument
 
 ---
@@ -1777,7 +1796,10 @@ Also in: Nagel, T. (1979). *Mortal Questions*. Cambridge University Press.
 **3. Dennett, Daniel C. (1991)**
 *Consciousness Explained*
 Little, Brown and Company
-- Chapter 2: Explaining Consciousness (~30 pages)
+- Chapter 2: "Explaining Consciousness" (32 pages)
+- Chapter 3: "A Visit to the Phenomenological Garden" (40 pages)
+- Chapter 4: "A Method for Phenomenology" (first 25-30 pages focusing on heterophenomenology)
+- Total: approximately 97-102 pages
 
 ---
 
@@ -2220,5 +2242,7 @@ Then begin.
 
 *This curriculum prepared November 2025 for experimental pilot in AI-mediated learning. All intellectual work remains the student's own; AI provides guidance and feedback only.*
 
-*Version 1.3:*
-- *Daily template updated to record total time spent instead of start/stop time to allow multiple sessions per day*
+*Version 1.4:*
+- *Week 2 reading schedule corrected: Reading spread over Monday-Thursday (4 days) with proper coverage of Chapters 2-4; Friday combines comparative table with critical evaluation*
+- *Reading list updated to reflect actual chapter lengths and requirements*
+- *Daily template updated to record total time spent instead of start/stop time to allow multiple sessions per day (v1.3)*
