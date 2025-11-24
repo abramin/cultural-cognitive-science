@@ -23,6 +23,46 @@
 
 ### Additional Notes:
 
+## Date: [24/11/2025]
+
+| Field         | Value |
+| ------------- | ----- |
+| Total Time    |   60    |
+| Energy (1-5)  |   3    |
+| Mood (1-5)    |    4   |
+| Clarity (1-5) |   3    |
+
+### What I Read/Studied:
+
+* Ch 2 - Consciousness Explained (DEnnet 1991)
+
+### What Was Difficult:
+
+* His shifting use of the word consciousness - experience, self control, self consciousness, intention
+
+### Questions That Arose:
+
+### How I Addressed Confusion (or didn't):
+
+* Haven´t yet, but it would be interesting to document the different ways he uses the term in the single chapter
+
+### What I Wish I Had Access To:
+* Responses to Dennet
+* a Summary, a lot of his writing is tangential detail or illustrative detail that I don´t always need.
+* Someone to speak to about the reading.
+
+### Confidence Level in Today's Learning (1-10):
+
+8
+
+### Additional Notes:
+
+* How does his approach differ from what you've read so far? 
+
+- seems more reliant on scientific details (unlike Chalmers & Nagel who focussed on the philosophical structure of the problem)
+- obviously more committed to materialism than either Chalmers or Nagel
+
+
 ## Date: [22/11/2025]
 
 | Field         | Value |
